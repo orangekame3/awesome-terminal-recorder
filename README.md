@@ -6,19 +6,17 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 ---
 
-## 🌟 Introduction
+## Table of Repos
 
-A comprehensive collection of the coolest and most informative terminal Recorders.
-
----
-
-## Table of Contents
-
-1. [asciinema](#asciinema)
-2. [agg](#agg)
-3. [vhs](#vhs)
-4. [terminalizer](#terminalizer)
-5. [t-rec](#t-rec)
+- [🎉 Awesome Terminal Recorder 🎉](#-awesome-terminal-recorder-)
+  - [Table of Repos](#table-of-repos)
+    - [asciinema](#asciinema)
+    - [agg](#agg)
+    - [vhs](#vhs)
+    - [terminalizer](#terminalizer)
+    - [t-rec](#t-rec)
+    - [termtosvg](#termtosvg)
+  - [🤝 Contributing](#-contributing)
 
 ---
 
@@ -51,6 +49,12 @@ _Record your terminal and generate animated gif images or share a web player lin
 _Blazingly fast terminal recorder that generates animated gif images for the web written in rust._
 
 <img src="https://github.com/sassman/t-rec-rs/blob/main/docs/demo.gif?raw=true" width="600"/>
+
+### [termtosvg](https://github.com/nbedos/termtosvg)
+
+_termtosvg is a Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations._
+
+<img src="https://raw.githubusercontent.com/nbedos/termtosvg/258a3fdb17faf06d4f1525603185ef18b4ab7920/docs/examples/awesome_window_frame_powershell.svg" width="600"/>
 
 ---
 
