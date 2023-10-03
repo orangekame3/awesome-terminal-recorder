@@ -16,6 +16,10 @@ Curated list of outstanding terminal Recorder that make your day brighter!
     - [terminalizer](#terminalizer)
     - [t-rec](#t-rec)
     - [termtosvg](#termtosvg)
+    - [ttygif](#ttygif)
+    - [ttystudio](#ttystudio)
+    - [terminal-recorder](#terminal-recorder)
+    - [goscript](#goscript)
   - [🤝 Contributing](#-contributing)
 
 ---
@@ -55,6 +59,30 @@ _Blazingly fast terminal recorder that generates animated gif images for the web
 _termtosvg is a Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations._
 
 <img src="https://raw.githubusercontent.com/nbedos/termtosvg/258a3fdb17faf06d4f1525603185ef18b4ab7920/docs/examples/awesome_window_frame_powershell.svg" width="600"/>
+
+### [ttygif](https://github.com/icholy/ttygif)
+
+_ttygif converts a ttyrec file into gif files. It's a stripped down version of ttyplay that screenshots every frame._
+
+<img src="https://i.imgur.com/nvEHTgn.gif" width="600"/>
+
+### [ttystudio](https://github.com/chjj/ttystudio)
+
+_Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc._
+
+<img src="https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif" width="600"/>
+
+
+### [terminal-recorder](https://github.com/cortezcristian/terminal-recorder)
+
+_Terminal recorder allows you to record your bash session, and export it to html so then you can share it with your friends._
+
+<img src="https://raw.githubusercontent.com/cortezcristian/terminal-recorder/master/pics/demo-htop.png" width="600"/>
+
+### [goscript](https://github.com/elisescu/goscript)
+_Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained html file that can be run in the browser, to playback the session._
+
+<img src="https://raw.githubusercontent.com/elisescu/goscript-demo/master/demo-short.gif" width="600"/>
 
 ---
 
