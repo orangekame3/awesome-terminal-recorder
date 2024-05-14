@@ -18,6 +18,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
     - [agg](#agg)
     - [vhs](#vhs)
     - [terminalizer](#terminalizer)
+    - [menyoki](#menyoki)
     - [t-rec](#t-rec)
     - [termtosvg](#termtosvg)
     - [ttygif](#ttygif)
