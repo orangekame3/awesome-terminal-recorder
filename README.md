@@ -52,6 +52,12 @@ _Record your terminal and generate animated gif images or share a web player lin
 
 <img src="https://github.com/faressoft/terminalizer/blob/master/img/demo.gif?raw=true" width="600"/>
 
+### [menyoki](https://github.com/orhun/menyoki)
+
+_Screen{shot,cast} and perform ImageOps on the command line - written in Rust_
+
+<img src="https://user-images.githubusercontent.com/24392180/99543947-cdeb2280-29c4-11eb-87a9-ad559f9522ad.gif" width="600"/>
+
 ### [t-rec](https://github.com/sassman/t-rec-rs)
 
 _Blazingly fast terminal recorder that generates animated gif images for the web written in rust._
