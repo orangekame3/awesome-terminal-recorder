@@ -1,5 +1,5 @@
 <div align="center">
- 
+
 # 🎥 Awesome Terminal Recorder 📼
 
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -25,6 +25,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
     - [ttystudio](#ttystudio)
     - [terminal-recorder](#terminal-recorder)
     - [goscript](#goscript)
+    - [savvy](#savvy)
   - [🤝 Contributing](#-contributing)
 
 ---
@@ -94,6 +95,20 @@ _Terminal recorder allows you to record your bash session, and export it to html
 _Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained html file that can be run in the browser, to playback the session._
 
 <img src="https://raw.githubusercontent.com/elisescu/goscript-demo/master/demo-short.gif" width="600"/>
+
+---
+
+### [savvy](https://github.com/getsavvyinc/savvy-cli)
+_savvy record starts a new sub-shell and all commands in this shell are recorded and sent to an LLM to generate a runbook. You can also create runbooks from your shell history. Savvy allows you to run any runbook using savvy run._
+
+
+**savvy record**
+
+<img src="https://vhs.charm.sh/vhs-1UmW0o6uSztF6b76y92K2K.gif" width="600"/>
+
+**savvy record history**
+
+<img src="https://raw.githubusercontent.com/getsavvyinc/savvy-cli/main/demos/savvy-history.gif" width="600">
 
 ---
 
