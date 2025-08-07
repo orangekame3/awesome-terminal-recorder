@@ -26,6 +26,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
     - [terminal-recorder](#terminal-recorder)
     - [goscript](#goscript)
     - [savvy](#savvy)
+    - [rewindtty](#rewindtty)
   - [🤝 Contributing](#-contributing)
 
 ---
@@ -109,6 +110,19 @@ _savvy record starts a new sub-shell and all commands in this shell are recorded
 **savvy record history**
 
 <img src="https://raw.githubusercontent.com/getsavvyinc/savvy-cli/main/demos/savvy-history.gif" width="600">
+
+---
+
+### [rewindtty](https://github.com/rewindtty/rewindtty)
+A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing. 
+
+**rewindtty record and replay**
+ 
+<img src="https://www.rewindtty.dev/assets/images/record.gif" width="600"/>
+
+**rewindtty analyze**
+
+<img src="https://www.rewindtty.dev/assets/images/analyze_command.png" width="600"/>
 
 ---
 
