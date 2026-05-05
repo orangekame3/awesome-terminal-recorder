@@ -27,6 +27,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
     - [goscript](#goscript)
     - [savvy](#savvy)
     - [rewindtty](#rewindtty)
+    - [script](#script)
   - [🤝 Contributing](#-contributing)
 
 ---
@@ -123,6 +124,12 @@ A terminal session recorder and replayer written in C that allows you to capture
 **rewindtty analyze**
 
 <img src="https://www.rewindtty.dev/assets/images/analyze_command.png" width="600"/>
+
+---
+
+### [script](https://github.com/util-linux/util-linux/blob/master/term-utils/script.1.adoc)
+
+_script_, from util-linux, makes a typescript of everything on your terminal session. It can later be re-played with _scriptreplay_ or re-runned with _scriptlive_.
 
 ---
 
