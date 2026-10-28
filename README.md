@@ -28,6 +28,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
     - [savvy](#savvy)
     - [rewindtty](#rewindtty)
     - [script](#script)
+    - [trecs](#trecs)
   - [🤝 Contributing](#-contributing)
 
 ---
@@ -131,7 +132,11 @@ A terminal session recorder and replayer written in C that allows you to capture
 
 _script_, from util-linux, makes a typescript of everything on your terminal session. It can later be re-played with _scriptreplay_ or re-runned with _scriptlive_.
 
----
+### [trecs](https://github.com/solworktech/trecs)
+
+*Terminal session recorder, player (web & terminal) and editor. Features: command navigation, in-player search, annotations, audio, images, Markdown & GIF export.*
+
+[![trecs walkthrough](https://trecs.run/v1/recordings/5bb6689c-164b-4ca6-9057-087560147134/preview.gif)](https://trecs.run/watch/5bb6689c-164b-4ca6-9057-087560147134)
 
 ## 🤝 Contributing
 
